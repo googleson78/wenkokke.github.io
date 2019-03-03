@@ -1,0 +1,13 @@
+_site
+.DS_Store
+.sass-cache
+.ruby-version
+.jekyll-metadata
+_config.gh-pages.yml
+Gemfile.lock
+*.sublime-project
+*.sublime-workspace
+*.agdai
+dist/
+.shake/
+.stack-work/
